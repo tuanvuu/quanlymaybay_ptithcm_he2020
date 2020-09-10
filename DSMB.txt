@@ -1,0 +1,27 @@
+5    
+
+MH371
+boeing
+5
+5
+
+MH251
+boeing
+4
+10
+
+MH250
+boeing 9
+4
+5
+
+MB002
+VIETJET 002
+2
+4
+
+MB004
+JETSTART
+5
+6
+

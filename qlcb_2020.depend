@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1598237418 source:d:\nam4_ki_3\project\codeblock\qlcb_2020\main.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<cstring>
+	<stdlib.h>
+	<math.h>
+	"mylib.h"
+	<Windows.h>
+
+1598150306 d:\nam4_ki_3\project\codeblock\qlcb_2020\mylib.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<stdio.h>
+	<dos.h>
+	<string.h>
+	"mylib.h"
+	<sstream>
+	<cmath>
+
+1594575405 d:\nam4_ki_3\project\codeblock\qlcb_2020\khaibao.h
+	<windows.h>
+
+1594576130 d:\nam4_ki_3\project\codeblock\qlcb_2020\maybay.h
+	"mylib.h"
+	"khaibao.h"
+
