@@ -1,4 +1,7 @@
-	Quản lý các chuyến bay nội địa thuộc 1 hăng hàng không: Ta toå chöùc caùc danh saùch sau: 
+# Đồ án cấu trúc dữ liệu & giải thuật
+Chương trình sử dụng codeblock IDE . Các chức năng ràng buộc về thời gian đặt vé , bỏ trống hầu đã bắt hết . Yêu cầu đề tài còn 1 câu cuối chưa làm kiệp.
+
+Quản lý các chuyến bay nội địa thuộc 1 hăng hàng không: Ta toå chöùc caùc danh saùch sau: 
 - Máy bay : mảng con trỏ có tối đa 300 máy bay. Mỗi máy bay có các thông tin (Số hiệu MB (C15), loại máy bay (C40), số dãy , số dòng) ;  Mỗi máy bay có 1 số hiệu duy nhất;  
   Nếu số dãy = 5 nghĩa là máy bay có các dãy A, B, C, D, E; Nếu số dòng = 20 nghĩa là máy bay có các hàng ghế được đánh số từ 1 đến 20. Kết hợp dãy và hàng ghế ta sẽ có số vé.
 Theo ví dụ trên, ta có 100 vé với các số vé A01, A02, ...., A19, A20, …, E19, E20.
